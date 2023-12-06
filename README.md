@@ -2,7 +2,7 @@
 
 1. Create conda env:
 
-conda create -n SummerCampAsistant python=3.10.11 <!--check python version firsst import sys print(sys.version) python3 --version
+conda create -n SummerCampAsistant python=3.10.11
 2. Activate conda env:
 
 conda activate SummerCampAsistant
